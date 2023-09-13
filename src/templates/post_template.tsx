@@ -53,17 +53,17 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = function ({
   return (
     <Template title={title} description={summary} url={href} image={publicURL}>
       <PostHead title={title} date={date} categories={categories} thumbnail={gatsbyImageData} />
-      <KakaoAdfitWrap>
+      {/* <KakaoAdfitWrap>
         <KakaoTopAdfit />
-      </KakaoAdfitWrap>
+      </KakaoAdfitWrap> */}
       <PostContent html={html} />
-      <KakaoAdfitWrap>
+      {/* <KakaoAdfitWrap>
         <KakaoMiddleAdfit />
-      </KakaoAdfitWrap>
+      </KakaoAdfitWrap> */}
       <CommentWidget />
-      <KakaoAdfitWrap type={true}>
+      {/* <KakaoAdfitWrap type={true}>
         <KakaoBottomAdfit />
-      </KakaoAdfitWrap>
+      </KakaoAdfitWrap> */}
     </Template>
   );
 };

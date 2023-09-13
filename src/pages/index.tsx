@@ -81,17 +81,17 @@ const IndexPage: FunctionComponent<IndexPageProps> = function ({
   return (
     <Template title={title} description={description} url={siteUrl} image={image}>
       <Introduction profileImage={gatsbyImageData} />
-      <KakaoAdfitWrap>
+      {/* <KakaoAdfitWrap>
         <KakaoTopAdfit />
-      </KakaoAdfitWrap>
+      </KakaoAdfitWrap> */}
       <CategoryList selectedCategory={selectedCategory} categoryList={categoryList} />
-      <KakaoAdfitWrap>
+      {/* <KakaoAdfitWrap>
         <KakaoMiddleAdfit />
-      </KakaoAdfitWrap>
+      </KakaoAdfitWrap> */}
       <PostList selectedCategory={selectedCategory} posts={edges} />
-      <KakaoAdfitWrap type={true}>
+      {/* <KakaoAdfitWrap type={true}>
         <KakaoBottomAdfit />
-      </KakaoAdfitWrap>
+      </KakaoAdfitWrap> */}
     </Template>
   );
 };
