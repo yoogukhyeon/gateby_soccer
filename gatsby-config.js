@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Sport Magazine`,
-    description: `다양한 스포츠 소식을 공유합니다.`,
+    title: `Soccer Previews`,
+    description: `축구 분석, 실시간 소식을 공유합니다.`,
     author: `Hyun`,
-    siteUrl: 'https://news.everyday-365.com',
-    image: 'https://news.everyday-365.com/profile-image.png',
+    siteUrl: 'https://soccer.everyday-365.com',
+    image: 'https://soccer.everyday-365.com/profile-image.png',
   },
   plugins: [
     {
