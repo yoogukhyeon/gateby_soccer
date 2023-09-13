@@ -65,10 +65,10 @@ const Introduction: FunctionComponent<IntroductionProps> = function ({ profileIm
 
         <div>
           <SubTitle data-sal="slide-up" data-sal-duration="1000" data-sal-delay="400" data-sal-easing="ease">
-            축구, 야구, 농구 등 다양한 스포츠에 Hot 소식을 공유합니다.
+            축구 분석, 축구 실시간 소식, 축구 소식 최고의 퀄리티 Hot 소식을 공유합니다.
           </SubTitle>
           <Title data-sal="slide-up" data-sal-duration="1200" data-sal-delay="500" data-sal-easing="ease">
-            스포츠 뉴스 소식을 공유합니다.
+            축구 분석 & 뉴스 소식을 공유합니다.
           </Title>
         </div>
       </Wrapper>
