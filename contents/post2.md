@@ -20,7 +20,7 @@ PSG vs Nice
 
 <br />
 
-# Preview: Paris Saint-Germain vs. Nice - prediction, team news, lineups
+# Preview: 파리 생제르맹 대 니스 - 예측, 팀 뉴스, 라인업
 
 by Everdyay365
 
