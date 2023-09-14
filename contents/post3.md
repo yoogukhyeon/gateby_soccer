@@ -92,7 +92,7 @@ Die Werkself는 2022-23년 분데스리가 기간을 6위로 마쳤고, DFB-포�
 
 <br />
 
-Mathys Tel이 글라드바흐를 상대로 벤치에서 승리를 거둔 후 처음부터 출전할 주장이 있지만, 지난 여름 토트넘 홋스퍼에서 클럽 기록을 세운 이후 이미 분데스리가 3골을 터뜨린 해리 케인이 다시 한 번 최전방에서 선호되어야 합니다. Musiala가 없는 동안 Serge Gnabry, Thomas Muller, Kingsley Coman\*\*](/people/kingsley-coman/ 'More Kingsley Coman') 및 Leroy Sane이 출연하기 위해 경쟁하면서 여전히 역할 경쟁이 남아 있습니다.
+Mathys Tel이 글라드바흐를 상대로 벤치에서 승리를 거둔 후 처음부터 출전할 주장이 있지만, 지난 여름 토트넘 홋스퍼에서 클럽 기록을 세운 이후 이미 분데스리가 3골을 터뜨린 해리 케인이 다시 한 번 최전방에서 선호되어야 합니다. Musiala가 없는 동안 Serge Gnabry, Thomas Muller, Kingsley Coman 및 Leroy Sane이 출연하기 위해 경쟁하면서 여전히 역할 경쟁이 남아 있습니다.
 
 <br />
 
@@ -100,7 +100,7 @@ Mathys Tel이 글라드바흐를 상대로 벤치에서 승리를 거둔 후 처
 
 <br />
 
-Adli는 Adam Hlozek 및 \*Nathan Tella와 함께 Alonso의 3-4-3 설정에서 처음부터 전방 3위 진입을 위해 경쟁하고 있지만 인상적인 시즌을 시작한 Jonas Hofmann 및 Florian Wirtz와의 치열한 경쟁에 직면해 있습니다. 측면에서는 빅토르 보니페이스가 여름에 유니언 SG에서 이적한 이후 단 3번의 분데스리가 출전 만에 4골 2도움으로 다시 선두를 달리게 됩니다.
+Adli는 Adam Hlozek 및 Nathan Tella와 함께 Alonso의 3-4-3 설정에서 처음부터 전방 3위 진입을 위해 경쟁하고 있지만 인상적인 시즌을 시작한 Jonas Hofmann 및 Florian Wirtz와의 치열한 경쟁에 직면해 있습니다. 측면에서는 빅토르 보니페이스가 여름에 유니언 SG에서 이적한 이후 단 3번의 분데스리가 출전 만에 4골 2도움으로 다시 선두를 달리게 됩니다.
 
 <br />
 
@@ -119,8 +119,6 @@ Hradecky; Kossounou, Tah, Tapsoba; Frimpong, Palacios, Xhaka, Grimaldo; Hofmann,
 <br />
 
 ---
-
-![SM words green background](https://sm.imgix.net/20/33/sm-words-green-background.png?w=210&h=53 'SM words green background')
 
 ## 예측: Bayern Munich 3-2 Bayer Leverkusen
 
