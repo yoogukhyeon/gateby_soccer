@@ -76,9 +76,11 @@ const MarkdownRenderer = styled.div`
   }
 
   p:nth-child(3),
-  p:nth-child(7) {
-    width: 25%;
-    height: 25%;
+  p:nth-child(7),
+  p:nth-child(1),
+  p:nth-child(5) {
+    width: 20%;
+    height: 20%;
   }
   img {
     width: 100%;
