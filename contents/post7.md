@@ -1,7 +1,7 @@
 ---
 date: '2023-09-18'
 title: 'Preview: 맨체스터 시티 대 레드 스타 베오그라드 - 예측, 팀 뉴스, 라인업'
-categories: ['축구 챔피언스리그 예측']
+categories: ['챔피언스리그 예측']
 summary: 'Preview: 맨체스터 시티 대 레드 스타 베오그라드 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post7.avif'
 ---

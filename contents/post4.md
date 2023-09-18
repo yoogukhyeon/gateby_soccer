@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 title: 'Preview: 사우샘프턴 대 레스터 시티 - 예측, 팀 뉴스, 라인업'
-categories: ['축구 예측']
+categories: ['챔피언쉽']
 summary: 'Preview: 사우샘프턴 대 레스터 시티 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post4.avif'
 ---

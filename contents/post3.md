@@ -1,7 +1,7 @@
 ---
 date: '2023-09-14'
 title: 'Preview: 바이에른 뮌헨 대 바이엘 레버쿠젠 - 예측, 팀 뉴스, 라인업'
-categories: ['축구 예측']
+categories: ['분데스리가']
 summary: 'Preview: 바이에른 뮌헨 대 바이엘 레버쿠젠 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post3.avif'
 ---
