@@ -74,11 +74,17 @@ const MarkdownRenderer = styled.div`
     margin-left: 20px;
     padding: 30px 0;
   }
-
+  p:nth-child(2) {
+    margin-bottom: 10px;
+  }
   p:nth-child(2),
   p:nth-child(6) {
     width: 20%;
     height: 20%;
+  }
+
+  p:nth-child(6) {
+    margin-top: 10px;
   }
   img {
     width: 100%;
