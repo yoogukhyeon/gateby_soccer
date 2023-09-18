@@ -6,6 +6,8 @@ summary: 'Preview: 파리 생제르맹 대 니스 - 예측, 팀 뉴스, 라인�
 thumbnail: './post2.avif'
 ---
 
+## 리그앙1
+
 ![PSG logo](https://sm.imgix.net/19/06/psglog.png?w=60&h=60&auto=compress,format&fit=clip 'PSG logo')
 
 Ligue 1

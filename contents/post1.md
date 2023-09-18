@@ -6,6 +6,18 @@ summary: 'Preview: 페루 대 브라질 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post1.avif'
 ---
 
+## A매치
+
+![Peru national football team](https://sm.imgix.net/21/12/perlog.png?w=60&h=60&auto=compress,format&fit=clip 'Peru national football team')
+
+월드컵 예선
+
+09 13, 2023 at 3am UK
+
+Estadio Nacional de Lima
+
+![Brazil national football team](https://sm.imgix.net/21/12/bralog.png?w=60&h=60&auto=compress,format&fit=clip 'Brazil national football team')
+
 # Preview: 페루 대 브라질 - 예측, 팀 뉴스, 라인업
 
 브라질은 화요일 월드컵 예선에서 페루와의 경기를 위해 리마로 이동하면서 금요일 볼리비아를 상대로 압도적인 승리를 거둘 것으로 예상됩니다.

@@ -6,6 +6,8 @@ summary: 'Preview: 사우샘프턴 대 레스터 시티 - 예측, 팀 뉴스, �
 thumbnail: './post4.avif'
 ---
 
+## 챔피언쉽
+
 ![Southampton logo](https://sm.imgix.net/19/06/soulog.png?w=60&h=60&auto=compress,format&fit=clip 'Southampton logo')
 
 Championship
