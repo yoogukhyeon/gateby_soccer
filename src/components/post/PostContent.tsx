@@ -78,7 +78,9 @@ const MarkdownRenderer = styled.div`
   p:nth-child(3),
   p:nth-child(7),
   p:nth-child(1),
-  p:nth-child(5) {
+  p:nth-child(5),
+  p:nth-child(2),
+  p:nth-child(6) {
     width: 20%;
     height: 20%;
   }
