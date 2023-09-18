@@ -119,6 +119,8 @@ Rossoneri는 또한 산드로 토날리(Sandro Tonali)에서 이전 부대 중 �
 **AC밀란 possible starting lineup:**  
 Maignan; Calabria, Tomori, Kjaer, Hernandez; Reijnders, Krunic, Loftus-Cheek; Chukwueze, Giroud, Leao
 
+<br />
+
 **뉴캐슬 possible starting lineup:**  
 Pope; Trippier, Schar, Botman, Burn; Longstaff, Tonali, Guimaraes; Gordon, Isak, Barnes
 
@@ -131,3 +133,5 @@ Pope; Trippier, Schar, Botman, Burn; Longstaff, Tonali, Guimaraes; Gordon, Isak,
 <br />
 
 영국의 적들보다 훨씬 더 많은 대륙의 누스를 축복받은 피올리의 팀은 토모리가 두 팔을 벌려 첫 XI에 복귀하는 것을 환영할 것입니다. 하우의 선수들은 여전히 좋은 설명을 해야 하지만 수비적 사고에 취약한 뉴캐슬 백라인을 통과하는 길을 찾아야 합니다. 밀라노에 있는 그들 자신.
+
+<br />

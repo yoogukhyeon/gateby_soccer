@@ -75,6 +75,16 @@ const MarkdownRenderer = styled.div`
     padding: 30px 0;
   }
 
+  p:nth-child(3),
+  p:nth-child(7) {
+    width: 30%;
+    height: 30%;
+  }
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
   // Adjust Horizontal Rule style
   hr {
     border: 1px solid #000000;

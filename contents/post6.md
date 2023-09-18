@@ -121,6 +121,8 @@ Mark van Bommel의 팀은 플레이오프 상대를 상대로 홈 앤 어웨이�
 **Barcelona possible starting lineup:**  
 Ter Stegen; Cancelo, Kounde, Christensen, Balde; Gavi, De Jong, Gundogan; Yamal, Lewandowski, Felix
 
+<br />
+
 **Royal Antwerp possible starting lineup:**  
 Butez; Bataille, Van den Bosch, Coulibaly, De Laet; Keita, Ekkelenkamp, Vermeeren; Balikwisha, Janssen, Muja
 
@@ -129,3 +131,5 @@ Butez; Bataille, Van den Bosch, Coulibaly, De Laet; Keita, Ekkelenkamp, Vermeere
 ## 예측: Barcelona 3-0 Royal Antwerp
 
 바르셀로나는 토요일에 매우 훌륭했고 앤트워프가 이번 경기에서 긍정적인 결과를 얻을 것이라고 상상하기는 매우 어렵습니다. 벨기에 팀이 조별 예선에서 좋은 인상을 남길 수 있을지 여부는 서류상 가장 어려운 화요일 경기에 달려 있지 않으며, 우리는 그들이 여기서 편안하게 패할 것으로 기대하고 있습니다.
+
+<br />

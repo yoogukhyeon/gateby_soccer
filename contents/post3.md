@@ -127,3 +127,5 @@ Hradecky; Kossounou, Tah, Tapsoba; Frimpong, Palacios, Xhaka, Grimaldo; Hofmann,
 <br />
 
 그러나 우리는 Tuchel의 부하들이 Die Werkself를 능가하고 홈 경기장에서의 힘든 테스트에서 3점을 모두 얻을 수 있을 만큼 충분히 가지고 있는 것을 봅니다.
+
+<br />

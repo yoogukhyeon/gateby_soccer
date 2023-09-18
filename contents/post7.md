@@ -70,8 +70,12 @@ Cityzens와는 달리 원정팀은 시즌이 시작되었을 때 처음에 인�
 
 레드 스타 감독은 올 시즌 백4와 백3를 시작했지만 과르디올라 감독의 부하들을 상대로 후자를 활용할 것으로 예상된다.
 
+<br />
+
 **Manchester City possible starting lineup:**  
 Ederson; Walker, Akanji, Dias, Ake; Rodri, Silva; Foden, Alvarez, Doku; Haaland
+
+<br />
 
 **Red Star Belgrade possible starting lineup:**  
 Glazer; Mijailovic, Dragovic, Rodic; Bukari, Krasso, Stamenic, Kangwa, Mitrovic; Lucic, Olayinka
@@ -81,3 +85,5 @@ Glazer; Mijailovic, Dragovic, Rodic; Bukari, Krasso, Stamenic, Kangwa, Mitrovic;
 ## 예측: Manchester City 4-0 Red Star Belgrade
 
 에티하드에서 과르디올라 감독의 부하들이 챔피언스 리그 수비를 최대 승점으로 시작하려고 하기 때문에 솔직한 승리 외에는 다른 것을 보기 어렵습니다.
+
+<br />
