@@ -6,8 +6,6 @@ summary: 'Preview: 바르셀로나 대 로열 앤트워프 - 예측, 팀 뉴스,
 thumbnail: './post6.avif'
 ---
 
-![Champions League header](https://sm.imgix.net/19/40/cl-header.jpg?w=676&h=60&auto=compress,format&fit=clip 'Champions League header')
-
 ## Champions League
 
 ![Barcelona logo](https://sm.imgix.net/19/06/barlog.png?w=60&h=60&auto=compress,format&fit=clip 'Barcelona logo')

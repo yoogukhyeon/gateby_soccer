@@ -6,8 +6,6 @@ summary: 'Preview: AC 밀란 대 뉴캐슬 유나이티드 - 예측, 팀 뉴스,
 thumbnail: './post5.avif'
 ---
 
-![Champions League header](https://sm.imgix.net/19/40/cl-header.jpg?w=676&h=60&auto=compress,format&fit=clip 'Champions League header')
-
 ## Champions League
 
 ![Milan logo](https://sm.imgix.net/19/06/millog_1.png?w=60&h=60&auto=compress,format&fit=clip 'Milan logo')

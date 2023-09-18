@@ -6,8 +6,6 @@ summary: 'Preview: 맨체스터 시티 대 레드 스타 베오그라드 - 예�
 thumbnail: './post7.avif'
 ---
 
-![Champions League header](https://sm.imgix.net/19/40/cl-header.jpg?w=676&h=60&auto=compress,format&fit=clip 'Champions League header')
-
 ## Champions League
 
 ![Manchester City logo](https://sm.imgix.net/19/06/mcilog.png?w=60&h=60&auto=compress,format&fit=clip 'Manchester City logo')
