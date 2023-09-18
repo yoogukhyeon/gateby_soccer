@@ -12,15 +12,11 @@ thumbnail: './post5.avif'
 
 ![Milan logo](https://sm.imgix.net/19/06/millog_1.png?w=60&h=60&auto=compress,format&fit=clip 'Milan logo')
 
-<br />
-
 Champions League | Group Stage
 
 09 19, 2023 at 5.45pm UK
 
 Stadio Giuseppe Meazza
-
-<br />
 
 ![Newcastle logo](https://sm.imgix.net/19/06/newlog.png?w=60&h=60&auto=compress,format&fit=clip 'Newcastle logo')
 

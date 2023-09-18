@@ -8,15 +8,11 @@ thumbnail: './post3.avif'
 
 ![Bayern logo](https://sm.imgix.net/19/06/baylog.png?w=60&h=60&auto=compress,format&fit=clip 'Bayern logo')
 
-<br />
-
 Bundesliga
 
 09 15, 2023 at 7.30pm UK
 
 Allianz Arena
-
-<br />
 
 ![Leverkusen logo](https://sm.imgix.net/19/06/levlog_1.png?w=60&h=60&auto=compress,format&fit=clip 'Leverkusen logo')
 

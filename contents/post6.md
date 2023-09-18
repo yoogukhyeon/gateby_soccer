@@ -12,15 +12,11 @@ thumbnail: './post6.avif'
 
 ![Barcelona logo](https://sm.imgix.net/19/06/barlog.png?w=60&h=60&auto=compress,format&fit=clip 'Barcelona logo')
 
-<br />
-
 Champions League | Group Stage
 
 09 19, 2023 at 8pm UK
 
 Estadi Olimpic Lluis Companys
-
-<br />
 
 ![Royal Antwerp](https://sm.imgix.net/23/29/antlog.png?w=60&h=60&auto=compress,format&fit=clip 'Royal Antwerp')
 

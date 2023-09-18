@@ -8,15 +8,11 @@ thumbnail: './post4.avif'
 
 ![Southampton logo](https://sm.imgix.net/19/06/soulog.png?w=60&h=60&auto=compress,format&fit=clip 'Southampton logo')
 
-<br />
-
 Championship
 
 09 15, 2023 at 8pm UK
 
 St. Mary's Stadium
-
-<br />
 
 ![Leicester logo](https://sm.imgix.net/19/06/leilog.png?w=60&h=60&auto=compress,format&fit=clip 'Leicester logo')
 
