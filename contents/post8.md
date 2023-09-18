@@ -40,7 +40,7 @@ Everdyay365은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 화요
 
 ![Lazio coach Maurizio Sarri on August 3, 2023](https://sm.imgix.net/23/31/maurizio-sarri.jpg?w=640&h=480&auto=compress,format&fit=clip 'Lazio coach Maurizio Sarri on August 3, 2023')<br />© Reuters
 
-지난 시즌 말에 꾸준함을 보여준 라치오는 여러 다른 경쟁자들을 제치고 이탈리아 챔피언 나폴리에 앞서 준우승을 차지했으며, 유로파 리그와 3부 리그 컨퍼런스 리그에서 모두 발을 담근 후 챔피언스 리그 축구로 복귀했습니다. .
+지난 시즌 말에 꾸준함을 보여준 라치오는 여러 다른 경쟁자들을 제치고 이탈리아 챔피언 나폴리에 앞서 준우승을 차지했으며, 유로파 리그와 3부 리그 컨퍼런스 리그에서 모두 발을 담근 후 챔피언스 리그 축구로 복귀했습니다.
 
 <br />
 
