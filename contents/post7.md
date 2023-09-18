@@ -24,7 +24,7 @@ By Everdyay365
 
 <br />
 
-Sports Mole은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 맨체스터 시티와 Red Star Belgrade 간의 화요일 챔피언스 리그 경기를 미리 보여줍니다.
+Everdyay365은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 맨체스터 시티와 Red Star Belgrade 간의 화요일 챔피언스 리그 경기를 미리 보여줍니다.
 
 <br />
 
