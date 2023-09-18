@@ -12,11 +12,15 @@ thumbnail: './post7.avif'
 
 ![Manchester City logo](https://sm.imgix.net/19/06/mcilog.png?w=60&h=60&auto=compress,format&fit=clip 'Manchester City logo')
 
+<br />
+
 Champions League | Group Stage
 
 09 19, 2023 at 8pm UK
 
 Etihad Stadium
+
+<br />
 
 ![Red Star Belgrade](https://sm.imgix.net/19/41/rsblog.png?w=60&h=60&auto=compress,format&fit=clip 'Red Star Belgrade')
 
