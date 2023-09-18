@@ -75,7 +75,7 @@ const MarkdownRenderer = styled.div`
     padding: 30px 0;
   }
   p:nth-child(2) {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
   }
   p:nth-child(2),
   p:nth-child(6) {
@@ -84,7 +84,7 @@ const MarkdownRenderer = styled.div`
   }
 
   p:nth-child(6) {
-    margin-top: 10px;
+    margin-top: 15px;
   }
   img {
     width: 100%;

@@ -22,7 +22,7 @@ St. Mary's Stadium
 
 By Everdyay365
 
-Sports Mole은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 Southampton과 Leicester City 간의 금요일 챔피언십 충돌을 미리 보여줍니다.
+Everdyay365은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 Southampton과 Leicester City 간의 금요일 챔피언십 충돌을 미리 보여줍니다.
 
 사우샘프턴과 레스터 시티는 금요일 저녁 챔피언십에서 맞붙으며 지난 번에는 모두 깜짝 패배를 당했습니다.
 
