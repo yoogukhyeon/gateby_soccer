@@ -81,9 +81,9 @@ const IndexPage: FunctionComponent<IndexPageProps> = function ({
   return (
     <Template title={title} description={description} url={siteUrl} image={image}>
       <Introduction profileImage={gatsbyImageData} />
-      {/* <KakaoAdfitWrap>
+      <KakaoAdfitWrap>
         <KakaoTopAdfit />
-      </KakaoAdfitWrap> */}
+      </KakaoAdfitWrap>
       <CategoryList selectedCategory={selectedCategory} categoryList={categoryList} />
       {/* <KakaoAdfitWrap>
         <KakaoMiddleAdfit />
