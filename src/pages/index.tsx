@@ -85,13 +85,13 @@ const IndexPage: FunctionComponent<IndexPageProps> = function ({
         <KakaoTopAdfit />
       </KakaoAdfitWrap>
       <CategoryList selectedCategory={selectedCategory} categoryList={categoryList} />
-      {/* <KakaoAdfitWrap>
+      <KakaoAdfitWrap>
         <KakaoMiddleAdfit />
-      </KakaoAdfitWrap> */}
+      </KakaoAdfitWrap>
       <PostList selectedCategory={selectedCategory} posts={edges} />
-      {/* <KakaoAdfitWrap type={true}>
+      <KakaoAdfitWrap type={true}>
         <KakaoBottomAdfit />
-      </KakaoAdfitWrap> */}
+      </KakaoAdfitWrap>
     </Template>
   );
 };

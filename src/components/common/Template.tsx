@@ -53,9 +53,9 @@ const Template: FunctionComponent<TemplateProps> = function ({ title, descriptio
 
       <GlobalStyle />
       {children}
-      {/* <FixedAdfitWrap>
+      <FixedAdfitWrap>
         <KakaoFixedAdfit />
-      </FixedAdfitWrap> */}
+      </FixedAdfitWrap>
       <Footer />
     </Container>
   );
