@@ -1,7 +1,7 @@
 ---
 date: '2023-09-19'
 title: 'Preview: 바이에른 뮌헨 대 맨체스터 유나이티드 - 예측, 팀 뉴스, 라인업'
-categories: ['챔피언스리그 예측']
+categories: ['챔피언스리그 분석']
 summary: 'Preview: 바이에른 뮌헨 대 맨체스터 유나이티드 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post10.avif'
 ---

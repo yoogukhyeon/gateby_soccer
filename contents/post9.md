@@ -1,7 +1,7 @@
 ---
 date: '2023-09-19'
 title: 'Preview: 레알 마드리드 대 우니온 베를린 - 예측, 팀 뉴스, 라인업'
-categories: ['챔피언스리그 예측']
+categories: ['챔피언스리그 분석']
 summary: 'Preview: 레알 마드리드 대 우니온 베를린 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post9.avif'
 ---

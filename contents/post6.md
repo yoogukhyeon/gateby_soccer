@@ -1,7 +1,7 @@
 ---
 date: '2023-09-18'
 title: 'Preview: 바르셀로나 대 로열 앤트워프 - 예측, 팀 뉴스, 라인업'
-categories: ['챔피언스리그 예측']
+categories: ['챔피언스리그 분석']
 summary: 'Preview: 바르셀로나 대 로열 앤트워프 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post6.avif'
 ---

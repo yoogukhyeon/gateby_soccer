@@ -1,7 +1,7 @@
 ---
 date: '2023-09-13'
 title: 'Preview: 페루 대 브라질 - 예측, 팀 뉴스, 라인업'
-categories: ['A매치 예측']
+categories: ['A매치 분석']
 summary: 'Preview: 페루 대 브라질 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post1.avif'
 ---

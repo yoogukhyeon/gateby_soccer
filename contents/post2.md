@@ -1,7 +1,7 @@
 ---
 date: '2023-09-14'
 title: 'Preview: 파리 생제르맹 대 니스 - 예측, 팀 뉴스, 라인업'
-categories: ['리그앙1']
+categories: ['리그앙1 분석']
 summary: 'Preview: 파리 생제르맹 대 니스 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post2.avif'
 ---

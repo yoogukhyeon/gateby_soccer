@@ -1,7 +1,7 @@
 ---
 date: '2023-09-18'
 title: 'Preview: 라치오 대 아틀레티코 마드리드 - 예측, 팀 뉴스, 라인업'
-categories: ['챔피언스리그 예측']
+categories: ['챔피언스리그 분석']
 summary: 'Preview: 라치오 대 아틀레티코 마드리드 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post8.avif'
 ---
