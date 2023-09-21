@@ -24,8 +24,8 @@ const Template: FunctionComponent<TemplateProps> = function ({ title, descriptio
     <Container>
       <Helmet>
         <title>{title}</title>
-        {/* <meta name="google-site-verification" content="LyKV5XqH5LxkNQ9d3YUtbrDEmauUZg3oOX1dd4yTU04" />
-        <meta name="naver-site-verification" content="44fec3916e340a23a159ce82c2e183f2688e3faa" /> */}
+        <meta name="google-site-verification" content="LyKV5XqH5LxkNQ9d3YUtbrDEmauUZg3oOX1dd4yTU04" />
+        <meta name="naver-site-verification" content="0332db52157a6d6b538ce58954313a0785a4a3a7" />
         <meta name="title" content={title} />
         <meta name="description" content={description} />
         <meta name="keywords" content="축구 분석, 실시간 분석, 축구 소식, 축구 실시간 소식, 축구 블로그, 축구 분석 블로그" />
