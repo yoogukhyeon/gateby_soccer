@@ -24,7 +24,7 @@ By Everdyay365
 
 <br />
 
-Sports Mole은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 LASK Linz와 Liverpool 간의 목요일 유로파 리그 충돌을 미리 보여줍니다.
+Everdyay365은 예측, 팀 뉴스 및 가능한 라인업을 포함하여 LASK Linz와 Liverpool 간의 목요일 유로파 리그 충돌을 미리 보여줍니다.
 
 <br />
 
