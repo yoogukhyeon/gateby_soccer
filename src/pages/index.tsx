@@ -11,6 +11,7 @@ import styled from '@emotion/styled';
 import KakaoTopAdfit from 'components/adfit/KakaoTopAdfit';
 import KakaoMiddleAdfit from 'components/adfit/KakaoMiddleAdfit';
 import KakaoBottomAdfit from 'components/adfit/KakaoBottomAdfit';
+import { StaticImage } from 'gatsby-plugin-image';
 
 type IndexPageProps = {
   location: {
@@ -78,9 +79,14 @@ const IndexPage: FunctionComponent<IndexPageProps> = function ({
     [],
   );
 
+  const goToScore = () => {
+    window.open('https://everyday-365.com/kr', '_blank');
+  };
+
   return (
     <Template title={title} description={description} url={siteUrl} image={image}>
       <Introduction profileImage={gatsbyImageData} />
+      <EverydayBg onClick={goToScore}></EverydayBg>
       <KakaoAdfitWrap>
         <KakaoTopAdfit />
       </KakaoAdfitWrap>
@@ -95,6 +101,28 @@ const IndexPage: FunctionComponent<IndexPageProps> = function ({
     </Template>
   );
 };
+
+const EverydayBg = styled.div`
+  width: 100%;
+  height: 80px;
+  background-image: url('/images/everyday_banner.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 60%;
+  background-color: #000000;
+  color: #ffffff;
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+  }
+
+  @media (max-width: 768px) {
+    height: 50px;
+  }
+`;
 
 const KakaoAdfitWrap = styled.div<{ type?: boolean }>`
   text-align: center;
