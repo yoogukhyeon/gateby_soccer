@@ -117,12 +117,12 @@ Los Colchoneros는 이제 전체적으로 네 번째 최종 출전을 목표로 
 야닉 카라스코가 알샤바로 떠난 후 로드리고 리켈메가 토요일 왼쪽 측면에 자리를 잡았지만 하비 갈란이나 사무엘 리노가 스타디오 올림피코에 투입될 수도 있습니다. 한편, 공격에서는 알바로 모라타와 앙투안 그리즈만이 짝을 이뤄야 한다.
 
 **Lazio possible starting lineup:**  
-Provedel; Marusic, Casale, Romagnoli, Hysaj; Kamada, Guendouzi, Alberto; Anderson, Immobile, Zaccagni
+Provedel, Marusic, Casale, Romagnoli, Hysaj, Kamada, Guendouzi, Alberto, Anderson, Immobile, Zaccagni
 
 <br />
 
 **Atletico Madrid possible starting lineup:**  
-Oblak; Molina, Azpilicueta, Witsel, Savic, Galan; Saul, Barrios, Llorente; Griezmann, Morata
+Oblak, Molina, Azpilicueta, Witsel, Savic, Galan, Saul, Barrios, Llorente, Griezmann, Morata
 
 ---
 

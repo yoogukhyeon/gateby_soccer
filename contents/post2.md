@@ -117,13 +117,13 @@ PSG의 국제 스타들이 A매치 기간 동안 자신의 국가를 위해 출�
 
 <br />
 
-**Paris Saint-Germain possible starting lineup:**  
-Donnarumma; Hakimi, Pereira, Skriniar, Hernandez; Zaire-Emery, Ruiz, Vitinha; Dembele, Ramos, Barcola
+**파리 생제르맹의 가능한 선발 라인업:**
+돈나룸마, 하키미, 페레이라, 스크리니아르, 에르난데스, 자이르-에머리, 루이스, 비티냐, 뎀벨레, 라모스, 바르콜라
 
 <br />
 
-**Nice possible starting lineup:**  
-Bulka; Atal, Todibo, Dante, Perraud; Boudaoui, Ndayishimiye, Sanson; Laborde, Moffi, Diop
+**니스 선발 라인업:**
+Bulka, Atal, Todibo, Dante, Perraud, Boudaoui, Ndayishimiye, Sanson, Laborde, Moffi, Diop
 
 <br />
 

@@ -72,13 +72,13 @@ Wilfried Singo, Guillermo Maripan, Soungoutou Magassa는 3-4-2-1 포메이션에
 
 <br />
 
-**Monaco possible starting lineup:**  
-Kohn; Singo, Maripan, Magassa; Vanderson, Matazo, Fofana, Henrique; Minamino, Golovin; Ben-Yedder
+**모나코의 가능한 선발 라인업:**
+콘; 싱고, 마리판, 마가사; 밴더슨, 마타조, 포파나, 헨리케; 미나미노, 골로빈, 벤예데르
 
 <br />
 
-**Nice possible starting lineup:**  
-Bulka; Lotomba, Todibo, Dante, Bard; Sanson, Ndayishimiye, Thuram; Laborde, Moffi, Diop
+**니스 선발 라인업:**
+불카, 로톰바, 토디보, 단테, 바드, 산송, 은데이시미예, 튀랑, 라베르드, 모피, 디오프
 
 ---
 

@@ -101,12 +101,12 @@ Cityzens와는 달리 원정팀은 시즌이 시작되었을 때 처음에 인�
 <br />
 
 **Manchester City possible starting lineup:**  
-Ederson; Walker, Akanji, Dias, Ake; Rodri, Silva; Foden, Alvarez, Doku; Haaland
+Ederson, Walker, Akanji, Dias, Ake, Rodri, Silva, Foden, Alvarez, Doku, Haaland
 
 <br />
 
 **Red Star Belgrade possible starting lineup:**  
-Glazer; Mijailovic, Dragovic, Rodic; Bukari, Krasso, Stamenic, Kangwa, Mitrovic; Lucic, Olayinka
+Glazer, Mijailovic, Dragovic, Rodic, Bukari, Krasso, Stamenic, Kangwa, Mitrovic, Lucic, Olayinka
 
 ---
 

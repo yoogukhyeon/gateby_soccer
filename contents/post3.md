@@ -110,13 +110,13 @@ Adli는 Adam Hlozek 및 Nathan Tella와 함께 Alonso의 3-4-3 설정에서 처�
 
 <br />
 
-**Bayern Munich possible starting lineup:**  
-Ulreich; Mazraoui, Kim, De Ligt, Davies; Kimmich, Goretzka; Sane, Muller, Coman; Kane
+**바이에른 뮌헨의 가능한 선발 라인업:**
+울리히, 마즈라위, 킴, 데 리흐트, 데이비스, 킴미히, 고레츠카, 사네, 뮐러, 코만, 케인
 
 <br />
 
-**Bayer Leverkusen possible starting lineup:**  
-Hradecky; Kossounou, Tah, Tapsoba; Frimpong, Palacios, Xhaka, Grimaldo; Hofmann, Boniface, Wirtz
+**바이엘 레버쿠젠의 가능한 선발 라인업:**
+흐라데키, 코소누, 타, 탑소바, 프림퐁, 팔라시오스, 자카, 그리말도, 호프만, 보니페이스, 비르츠
 
 <br />
 

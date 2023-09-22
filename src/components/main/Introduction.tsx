@@ -64,10 +64,10 @@ const Introduction: FunctionComponent<IntroductionProps> = function ({ profileIm
         <ProfileImage profileImage={profileImage} data-sal="slide-up" data-sal-duration="900" data-sal-delay="300" data-sal-easing="ease" />
         <div>
           <SubTitle data-sal="slide-up" data-sal-duration="1000" data-sal-delay="400" data-sal-easing="ease">
-            축구 전문 분석 최고의 퀄리티 Hot 소식을 공유합니다.
+            축구 전문 분석 최고의 퀄리티 분석을 공유합니다.
           </SubTitle>
           <Title data-sal="slide-up" data-sal-duration="1200" data-sal-delay="500" data-sal-easing="ease">
-            HOT 축구 경기 분석 소식을 공유합니다.
+            HOT 축구 경기 분석을 공유합니다.
           </Title>
         </div>
       </Wrapper>

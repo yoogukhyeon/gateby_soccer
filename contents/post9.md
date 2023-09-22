@@ -121,12 +121,12 @@ Ferland Mendy가 이번 콘테스트에 돌아올 수도 있지만 Los Blancos�
 또한 임대 중인 첼시 공격수 다비드 다트로 포파나가 선발 출전할 가능성이 높지만, 경험이 풍부한 레오나르도 보누치가 첫 번째 휘슬의 교체 선수로 등장할 예정입니다.
 
 **Real Madrid possible starting lineup:**  
-Kepa; Carvajal, Rudiger, Alaba, F Garcia; Valverde, Tchouameni, Camavinga; Bellingham; Joselu, Rodrygo
+Kepa, Carvajal, Rudiger, Alaba, F Garcia, Valverde, Tchouameni, Camavinga, Bellingham, Joselu, Rodrygo
 
 <br />
 
 **Union Berlin possible starting lineup:**  
-Ronnow; Doekhi, Knoche, Leite; Juranovic, Laidouni, Kral, Aaronson, Gosens; Fofana, Behrens
+Ronnow, Doekhi, Knoche, Leite, Juranovic, Laidouni, Kral, Aaronson, Gosens, Fofana, Behrens
 
 ---
 

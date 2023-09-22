@@ -115,12 +115,12 @@ LASK와 리버풀은 이전에 경쟁 무대에서 맞붙은 적이 없지만, �
 <br />
 
 **LASK Linz possible starting lineup:**  
-Lawal; Luckeneder, Ziereis, Andrade; Flecker, Jovicic, Horvath, Bello; Ljubicic, Zulj, Havel
+Lawal, Luckeneder, Ziereis, Andrade, Flecker, Jovicic, Horvath, Bello, Ljubicic, Zulj, Havel
 
 <br />
 
 **Liverpool possible starting lineup:**  
-Kelleher; Gomez, Quansah, Van Dijk, Tsimikas; Elliott, Endo, Gravenberch; Doak, Jota, Diaz
+Kelleher, Gomez, Quansah, Van Dijk, Tsimikas, Elliott, Endo, Gravenberch, Doak, Jota, Diaz
 
 ---
 

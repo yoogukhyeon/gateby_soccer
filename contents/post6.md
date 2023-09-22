@@ -117,12 +117,12 @@ Mark van Bommel의 팀은 플레이오프 상대를 상대로 홈 앤 어웨이�
 <br />
 
 **Barcelona possible starting lineup:**  
-Ter Stegen; Cancelo, Kounde, Christensen, Balde; Gavi, De Jong, Gundogan; Yamal, Lewandowski, Felix
+Ter Stegen, Cancelo, Kounde, Christensen, Balde, Gavi, De Jong, Gundogan, Yamal, Lewandowski, Felix
 
 <br />
 
 **Royal Antwerp possible starting lineup:**  
-Butez; Bataille, Van den Bosch, Coulibaly, De Laet; Keita, Ekkelenkamp, Vermeeren; Balikwisha, Janssen, Muja
+Butez, Bataille, Van den Bosch, Coulibaly, De Laet, Keita, Ekkelenkamp, Vermeeren, Balikwisha, Janssen, Muja
 
 ---
 

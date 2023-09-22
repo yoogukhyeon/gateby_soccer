@@ -111,12 +111,12 @@ AEK 아테네는 브라이튼 원정을 앞두고 미자트 가시노비치, 파
 <br />
 
 **Brighton & Hove Albion possible starting lineup:**  
-Verbruggen; Veltman, Van Hecke, Dunk, Lamptey; Dahoud, Gross; Adingra, Pedro, Fati; Ferguson
+Verbruggen, Veltman, Van Hecke, Dunk, Lamptey, Dahoud, Gross, Adingra, Pedro, Fati, Ferguson
 
 <br />
 
 **AEK Athens possible starting lineup:**  
-Stankovic; Rota, Mitoglou, Moukoudi, Mohammadi; Eliasson, Szymanski, Jonsson, Amrabat; Araujo, Ponce
+Stankovic, Rota, Mitoglou, Moukoudi, Mohammadi, Eliasson, Szymanski, Jonsson, Amrabat, Araujo, Ponce
 
 ---
 

@@ -111,12 +111,12 @@ PSV는 에미레이트의 첫 번째 XI에 지명되어야 하는 사우샘프�
 <br />
 
 **Arsenal possible starting lineup:**  
-Ramsdale; White, Saliba, Gabriel, Zinchenko; Odegaard, Rice, Vieira; Saka, Jesus, Trossard
+Ramsdale, White, Saliba, Gabriel, Zinchenko, Odegaard, Rice, Vieira, Saka, Jesus, Trossard
 
 <br />
 
 **PSV Eindhoven possible starting lineup:**  
-Benitez; Teze, Ramalho, Bella-Kotchap, Dest; Schouten, Veerman; Bakayoko, Saibari, Lozano; De Jong
+Benitez, Teze, Ramalho, Bella-Kotchap, Dest, Schouten, Veerman, Bakayoko, Saibari, Lozano, De Jong
 
 ---
 

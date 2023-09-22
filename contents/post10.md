@@ -113,12 +113,12 @@ Danny Welbeck은 전반전 개막전으로 그의 전 클럽을 괴롭혔고 Pas
 브라이튼에게 4-4-2 다이아몬드 포메이션을 배치하는 데 실패한 후 Ten Hag는 바이에른을 상대로 브루노 페르난데스, 알레한드로 가르나초 또는 파쿤도 펠리스트리가 오른쪽에서 선발 출전하면서 바이에른을 상대로 4-2-3-1 구성으로 되돌아갈 수 있었습니다. 측면.
 
 **Bayern Munich possible starting lineup:**  
-Ulreich; Mazraoui, Upamecano, Kim, Davies; Laimer, Goretzka; Sane, Musiala, Gnabry; Kane
+Ulreich, Mazraoui, Upamecano, Kim, Davies, Laimer, Goretzka, Sane, Musiala, Gnabry, Kane
 
 <br />
 
 **Manchester United possible starting lineup:**  
-Onana; Dalot, Lindelof, Martinez, Reguilon; Casemiro, Eriksen; Garnacho, Fernandes, Rashford; Hojlund
+Onana, Dalot, Lindelof, Martinez, Reguilon, Casemiro, Eriksen, Garnacho, Fernandes, Rashford, Hojlund
 
 ---
 

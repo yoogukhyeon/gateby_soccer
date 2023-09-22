@@ -110,13 +110,13 @@ Cadiz를 상대로 시작한 XI의 대부분은 Alex Berenguer가 왼쪽에 고�
 
 <br />
 
-**Alaves possible starting lineup:**  
-Sivera; Gorosabel, Abqar, Marin, Duarte; Guevara, Blanco; Sola, Guridi, Rioja; Kike Garcia
+**알라베스의 가능한 선발 라인업:**
+시베라; 고로사벨, 아브카르, 마린, 두아르테, 게바라, 블랑코, 솔라, 구리디, 리오하, 키케 가르시아
 
 <br />
 
-**Athletic Bilbao possible starting lineup:**  
-Simon; De Marcos, Vivian, Yeray, Yuri; Vesga, Ruiz de Galarreta; I Williams, Sancet, Berenguer; Guruzeta
+**Athletic Bilbao의 가능한 선발 라인업:**
+사이먼, 데 마르코스, 비비안, 예레이, 유리, 베스가, 루이스 데 갈라레타, 아이 윌리엄스, 산셋, 베렝게르, 구루제타
 
 ---
 

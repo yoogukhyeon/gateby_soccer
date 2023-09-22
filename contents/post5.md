@@ -115,12 +115,12 @@ Rossoneri는 또한 산드로 토날리(Sandro Tonali)에서 이전 부대 중 �
 <br />
 
 **AC밀란 possible starting lineup:**  
-Maignan; Calabria, Tomori, Kjaer, Hernandez; Reijnders, Krunic, Loftus-Cheek; Chukwueze, Giroud, Leao
+Maignan, Calabria, Tomori, Kjaer, Hernandez, Reijnders, Krunic, Loftus-Cheek, Chukwueze, Giroud, Leao
 
 <br />
 
 **뉴캐슬 possible starting lineup:**  
-Pope; Trippier, Schar, Botman, Burn; Longstaff, Tonali, Guimaraes; Gordon, Isak, Barnes
+Pope, Trippier, Schar, Botman, Burn, Longstaff, Tonali, Guimaraes, Gordon, Isak, Barnes
 
 ---
 
