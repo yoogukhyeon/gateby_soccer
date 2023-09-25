@@ -10,11 +10,11 @@ thumbnail: './post17.avif'
 
 ![Burnley logo](https://sm.imgix.net/20/53/burlog_1.png?w=60&h=60&auto=compress,format&fit=clip 'Burnley logo')
 
-Premier League | Gameweek 6
+프리미어리그 | 게임위크 6
 
-Sep 23, 2023 at 8pm UK
+2023년 9월 23일 영국 오후 8시
 
-Turf Moor
+터프무어
 
 ![Manchester United logo](https://sm.imgix.net/19/06/manlog.png?w=60&h=60&auto=compress,format&fit=clip 'Manchester United logo')
 
