@@ -6,6 +6,8 @@ summary: 'Preview: 인터 밀란 대 사수올로 - 예측, 팀 뉴스, 라인�
 thumbnail: './post23.avif'
 ---
 
+## 세리아A
+
 ![Inter logo](https://sm.imgix.net/19/06/intlog.png?w=60&h=60&auto=compress,format&fit=clip 'Inter logo')
 
 세리에 A | 게임위크 6
