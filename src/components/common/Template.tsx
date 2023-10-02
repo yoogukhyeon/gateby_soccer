@@ -49,6 +49,7 @@ const Template: FunctionComponent<TemplateProps> = function ({ title, descriptio
         <html lang="ko" />
         <link rel="shortcut icon" href="favicon.png" />
         <link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png" />
+        <link rel="canonical" href="https://soccer.everyday-365.com" />
       </Helmet>
 
       <GlobalStyle />
