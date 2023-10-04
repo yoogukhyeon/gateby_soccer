@@ -6,6 +6,8 @@ summary: 'Preview: 칼리아리 대 AC 밀란 - 예측, 팀 뉴스, 라인업'
 thumbnail: './post22.avif'
 ---
 
+## 세리아A
+
 ![Cagliari logo](https://sm.imgix.net/19/06/caglog.png?w=60&h=60&auto=compress,format&fit=clip 'Cagliari logo')
 
 세리아 A | 게임위크 6
