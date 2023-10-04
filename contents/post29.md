@@ -3,7 +3,7 @@ date: '2023-10-04'
 title: 'Preview: 리버풀 대 Union SG - 예측, 팀 뉴스, 라인업'
 categories: ['유로파리그 분석']
 summary: 'Preview: 리버풀 대 Union SG - 예측, 팀 뉴스, 라인업'
-thumbnail: './post28.avif'
+thumbnail: './post29.avif'
 ---
 
 ## 유로파리그
