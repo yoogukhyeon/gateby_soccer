@@ -10,3 +10,14 @@
 exports.onRenderBody = ({ setHtmlAttributes }) => {
   setHtmlAttributes({ lang: `ko` });
 };
+
+exports.onRenderBody = ({ setHtmlAttributes, setHeadComponents }) => {
+  setHtmlAttributes({ lang: `ko` });
+  setHeadComponents([
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.min.js"
+      integrity="sha256-csxorxvzctkaix6yvo6hppczgetbymgwsflbw8hfcjo="
+      crossorigin="anonymous"
+    ></script>,
+  ]);
+};

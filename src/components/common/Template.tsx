@@ -49,6 +49,7 @@ const Template: FunctionComponent<TemplateProps> = function ({ title, descriptio
         <html lang="ko" />
         <link rel="shortcut icon" href="favicon.png" />
         <link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png" />
+        <link rel="canonical" href="https://soccer.everyday-365.com" />
       </Helmet>
 
       <GlobalStyle />
@@ -65,7 +66,7 @@ const FixedAdfitWrap = styled.div`
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
-  bottom: -4px;
+  bottom: -17px;
   width: 100%;
   max-width: 1068px;
   text-align: center;
